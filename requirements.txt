@@ -1,0 +1,8 @@
+tkinter
+requests
+cloudscraper
+beautifulsoup4
+fpdf
+googletrans==4.0.0-rc1
+ttkthemes
+pytest
